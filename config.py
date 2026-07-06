@@ -1,0 +1,7 @@
+DB_CONFIG = {
+    "dbname": "books_db",
+    "user": "postgres",
+    "password": "your_password",
+    "host": "localhost",
+    "port": "5432"
+}
